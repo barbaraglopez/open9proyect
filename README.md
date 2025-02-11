@@ -1,8 +1,35 @@
-# React + Vite
+# Mi Proyecto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de React creado con Vite.
 
-Currently, two official plugins are available:
+## Pasos para correr el proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clona el repositorio:
+
+   ```bash
+   git clone git clone https://github.com/barbaraglopez/open9proyect
+
+   ```
+
+2. Navega a la carpeta del proyecto:
+
+   ```bash
+   cd <mi-app>
+   ```
+
+3. Instala las dependencias:
+
+   ```bash
+   npm install
+   ```
+
+4. Ejecuta el proyecto:
+
+   ```bash
+   npm run dev
+   ```
+
+Esto debería permitirle instalar las dependencias y ejecutar el proyecto localmente.
+
+
+
