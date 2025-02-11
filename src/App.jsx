@@ -3,7 +3,7 @@ import Home from "./pages/Home/Home.jsx"
 import Login from "./pages/Login/Login.jsx";
 import FQuestions from "./pages/FQuestions/FQuestions.jsx";
 import Market from "./pages/Market/Market.jsx";
-import ProductDetail from "./pages/productdetail/ProductDetail.jsx";
+import ProductDetail from "./pages/ProductDetail/ProductDetail.jsx";
 import ShoppingCart from "./pages/ShoppingCart/ShoppingCart.jsx";
 import Cart from "./pages/Cart/Cart.jsx"
 import "./App.css";
