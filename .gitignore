@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Módulos y archivos de construcción
+node_modules/
+dist/
+dist-ssr/
+.build/
+.vite/
+.next/
+
+# Archivos temporales y de configuración de IDE
+.vscode/*
+.idea/*
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.cache/
+
+# Archivos de dependencias
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Archivos locales
+*.local

@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@layer utilities {
+  .font-azeret {
+    font-family: "Azeret Mono", monospace;
+  }
+}
+
+.btn-yellow {
+  background-color: #DDF247;
+  color: black;
+}
+
+.yellow{
+  background-color: #DDF247;
+}
+@media (prefers-color-scheme: light) {
+
+}
