@@ -2,7 +2,7 @@ import { useProducts } from "../../ProductContext";
 import { FaTrashAlt } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../../components/navbar/Navbar";
-import Footer from "../../components/Footer/Footer";
+import Footer from "../../components/footer/Footer";
 
 const Cart = () => {
     const { cart, clearCart, removeFromCart } = useProducts(); // Obtener los productos del carrito, la función para vaciarlo y la de eliminar un producto
